@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-portal/static/css/main.e6c13ad2.css",
+    "main.js": "/food-portal/static/js/main.d52b4a44.js",
+    "static/js/453.1c57a689.chunk.js": "/food-portal/static/js/453.1c57a689.chunk.js",
+    "index.html": "/food-portal/index.html",
+    "main.e6c13ad2.css.map": "/food-portal/static/css/main.e6c13ad2.css.map",
+    "main.d52b4a44.js.map": "/food-portal/static/js/main.d52b4a44.js.map",
+    "453.1c57a689.chunk.js.map": "/food-portal/static/js/453.1c57a689.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d52b4a44.js"
+  ]
+}
